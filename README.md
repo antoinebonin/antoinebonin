@@ -15,4 +15,4 @@ Je test et stock des choses ici :rofl:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Voir plus d'articles](https://medium.com/@antoinebonin99)
+➡️ [Voir plus d'articles](https://medium.com/@antoinebonin)
