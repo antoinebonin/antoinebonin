@@ -9,7 +9,7 @@ Je test et stock des choses ici :rofl:
 
 <br>
 
-[![antoinebonin's github stats](https://github-readme-stats.vercel.app/api?username=antoinebonin)](https://github.com/antoinebonin/github-readme-stats)
+[![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=antoinebonin)](https://github.com/antoinebonin/github-readme-stats)
 
 ### 📕 Mes derniers posts Medium
 <!-- BLOG-POST-LIST:START -->
