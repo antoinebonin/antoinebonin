@@ -7,7 +7,9 @@ Je test et stock des choses ici :rofl:
 - 💬 Je souhaite en savoir plus sur le Machine Learning et les IA en général 
 - 📫 Comment me contacter : [@antoinebonin99](https://twitter.com/antoinebonin99) / [contact@antoinebonin.fr](mailto:contact@antoinebonin.fr)
 
+
 [![antoinebonin's github stats](https://github-readme-stats.vercel.app/api?username=antoinebonin)](https://github.com/antoinebonin/github-readme-stats)
+
 
 ### 📕 Mes derniers posts Medium
 <!-- BLOG-POST-LIST:START -->
