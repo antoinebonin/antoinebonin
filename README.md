@@ -1,5 +1,5 @@
 ### Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Je test et stocque des choses ici :rofl:
+Je test et stock des choses ici :rofl:
 
 ### Je suis un étudiant, alternant et auto-entrepreneur :
 - 🔭 Je travail actuellement chez Amiltone :wink:
